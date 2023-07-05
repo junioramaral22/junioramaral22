@@ -2,7 +2,9 @@
 
 <img align='left'  src="https://github-readme-stats.vercel.app/api?username=junioramaral22&show_icons=true&theme=radical"/>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=junioramaral22&layout=compact)
+
+
 
 
 <h1 aling='left'>Languages and Frameworks</h1>
