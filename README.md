@@ -1,4 +1,4 @@
-# Hi there, i'm software engineering student at the Universidade of Brasília.😀
+# Hi there, i'm software engineering student at the Universidade de Brasília.😀
 
 <img align='left'  src="https://github-readme-stats.vercel.app/api?username=junioramaral22&show_icons=true&theme=radical"/>
 
